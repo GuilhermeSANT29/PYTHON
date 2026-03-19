@@ -1,0 +1,27 @@
+[
+    {
+        "maquina": "M1",
+        "temperatura": 75,
+        "status": "OK"
+    },
+    {
+        "maquina": "M2",
+        "temperatura": 95,
+        "status": "ALERTA"
+    },
+    {
+        "maquina": "M3",
+        "temperatura": null,
+        "status": "OK"
+    },
+    {
+        "maquina": "M4",
+        "temperatura": 85,
+        "status": "OK"
+    },
+    {
+        "maquina": "M5",
+        "temperatura": 105,
+        "status": "ALERTA"
+    }
+]

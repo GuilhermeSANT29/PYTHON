@@ -1,0 +1,6 @@
+maquina,temperatura,status
+M1,75,OK
+M2,95,ALERTA
+M3,,OK
+M4,85,OK
+M5,105,ALERTA
